@@ -1,0 +1,270 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2021-03-05">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Sir Luckless" label="Sir Luckless" />
+      <node id="Harry Potter" label="Harry Potter" />
+      <node id="Ronald Weasley" label="Ronald Weasley" />
+      <node id="George Weasley" label="George Weasley" />
+      <node id="Gryffindor Lad" label="Gryffindor Lad" />
+      <node id="Severus Snape" label="Severus Snape" />
+      <node id="Fred Weasley" label="Fred Weasley" />
+      <node id="Hedwig" label="Hedwig" />
+      <node id="Mrs Norris" label="Mrs Norris" />
+      <node id="Fang" label="Fang" />
+      <node id="Lee Jordan" label="Lee Jordan" />
+      <node id="Adrian" label="Adrian" />
+      <node id="Marcus Flint" label="Marcus Flint" />
+      <node id="Neville Longbottom" label="Neville Longbottom" />
+      <node id="Dean Thomas" label="Dean Thomas" />
+      <node id="Dudley" label="Dudley" />
+      <node id="Seamus Finnigan" label="Seamus Finnigan" />
+      <node id="Nicholas de Mimsy-Porpington" label="Nicholas de Mimsy-Porpington" />
+      <node id="Hannah Abbott" label="Hannah Abbott" />
+      <node id="Dedalus Diggle" label="Dedalus Diggle" />
+      <node id="Malkin" label="Malkin" />
+      <node id="Gerbold Ollivander" label="Gerbold Ollivander" />
+      <node id="Hugh Biggs" label="Hugh Biggs" />
+      <node id="Hermione Granger" label="Hermione Granger" />
+      <node id="Ronan" label="Ronan" />
+      <node id="Parvati Patil" label="Parvati Patil" />
+      <node id="Rubeus Hagrid" label="Rubeus Hagrid" />
+      <node id="Vernon Dursley" label="Vernon Dursley" />
+      <node id="Oliver Wood" label="Oliver Wood" />
+      <node id="Blythe Parkin" label="Blythe Parkin" />
+      <node id="Lucius Malfoy" label="Lucius Malfoy" />
+      <node id="Healer (Diagon Alley)" label="Healer (Diagon Alley)" />
+      <node id="Doris Crockford" label="Doris Crockford" />
+      <node id="Crabbe" label="Crabbe" />
+      <node id="Griphook" label="Griphook" />
+      <node id="Peter James" label="Peter James" />
+      <node id="Quirinus Quirrell" label="Quirinus Quirrell" />
+      <node id="Violet" label="Violet" />
+      <node id="Minerva McGonagall" label="Minerva McGonagall" />
+      <node id="Albus Dumbledore" label="Albus Dumbledore" />
+      <node id="Rolanda Hooch" label="Rolanda Hooch" />
+      <node id="George III" label="George III" />
+      <node id="Draco Malfoy" label="Draco Malfoy" />
+      <node id="Charles Weasley" label="Charles Weasley" />
+      <node id="Norberta" label="Norberta" />
+      <node id="Goyle" label="Goyle" />
+      <node id="Firenze" label="Firenze" />
+      <node id="Percy Weasley" label="Percy Weasley" />
+      <node id="Terry Boot" label="Terry Boot" />
+      <node id="Ravenclaw Lad" label="Ravenclaw Lad" />
+      <node id="Petunia Dursley" label="Petunia Dursley" />
+      <node id="Fluffy" label="Fluffy" />
+      <node id="Angelina Johnson" label="Angelina Johnson" />
+      <node id="Trevor" label="Trevor" />
+      <node id="Lily L. Potter" label="Lily L. Potter" />
+      <node id="Scabior" label="Scabior" />
+      <node id="Nick Alas" label="Nick Alas" />
+      <node id="Filius Flitwick" label="Filius Flitwick" />
+      <node id="Gordon" label="Gordon" />
+      <node id="Irma Pince" label="Irma Pince" />
+      <node id="Pansy Parkinson" label="Pansy Parkinson" />
+      <node id="Alicia Spinnet" label="Alicia Spinnet" />
+      <node id="Bane" label="Bane" />
+      <node id="William Weasley" label="William Weasley" />
+    </nodes>
+    <edges>
+      <edge source="Sir Luckless" target="Harry Potter" id="0" weight="1" />
+      <edge source="Sir Luckless" target="Ronald Weasley" id="1" weight="1" />
+      <edge source="Harry Potter" target="George Weasley" id="2" weight="2" />
+      <edge source="Harry Potter" target="Hedwig" id="3" weight="3" />
+      <edge source="Harry Potter" target="Mrs Norris" id="4" weight="7" />
+      <edge source="Harry Potter" target="Lee Jordan" id="5" weight="1" />
+      <edge source="Harry Potter" target="Adrian" id="6" weight="2" />
+      <edge source="Harry Potter" target="Marcus Flint" id="7" weight="2" />
+      <edge source="Harry Potter" target="Neville Longbottom" id="8" weight="18" />
+      <edge source="Harry Potter" target="Dean Thomas" id="9" weight="1" />
+      <edge source="Harry Potter" target="Dudley" id="10" weight="4" />
+      <edge source="Harry Potter" target="Gryffindor Lad" id="11" weight="2" />
+      <edge source="Harry Potter" target="Seamus Finnigan" id="12" weight="4" />
+      <edge source="Harry Potter" target="Nicholas de Mimsy-Porpington" id="13" weight="2" />
+      <edge source="Harry Potter" target="Hannah Abbott" id="14" weight="1" />
+      <edge source="Harry Potter" target="Dedalus Diggle" id="15" weight="1" />
+      <edge source="Harry Potter" target="Malkin" id="16" weight="5" />
+      <edge source="Harry Potter" target="Gerbold Ollivander" id="17" weight="7" />
+      <edge source="Harry Potter" target="Ronald Weasley" id="18" weight="106" />
+      <edge source="Harry Potter" target="Hugh Biggs" id="19" weight="1" />
+      <edge source="Harry Potter" target="Hermione Granger" id="20" weight="63" />
+      <edge source="Harry Potter" target="Ronan" id="21" weight="2" />
+      <edge source="Harry Potter" target="Parvati Patil" id="22" weight="2" />
+      <edge source="Harry Potter" target="Rubeus Hagrid" id="23" weight="55" />
+      <edge source="Harry Potter" target="Vernon Dursley" id="24" weight="49" />
+      <edge source="Harry Potter" target="Oliver Wood" id="25" weight="5" />
+      <edge source="Harry Potter" target="Blythe Parkin" id="26" weight="2" />
+      <edge source="Harry Potter" target="Lucius Malfoy" id="27" weight="16" />
+      <edge source="Harry Potter" target="Healer (Diagon Alley)" id="28" weight="2" />
+      <edge source="Harry Potter" target="Doris Crockford" id="29" weight="3" />
+      <edge source="Harry Potter" target="Crabbe" id="30" weight="3" />
+      <edge source="Harry Potter" target="Griphook" id="31" weight="2" />
+      <edge source="Harry Potter" target="Peter James" id="32" weight="1" />
+      <edge source="Harry Potter" target="Quirinus Quirrell" id="33" weight="17" />
+      <edge source="Harry Potter" target="Severus Snape" id="34" weight="29" />
+      <edge source="Harry Potter" target="Violet" id="35" weight="4" />
+      <edge source="Harry Potter" target="Minerva McGonagall" id="36" weight="10" />
+      <edge source="Harry Potter" target="Albus Dumbledore" id="37" weight="19" />
+      <edge source="Harry Potter" target="Rolanda Hooch" id="38" weight="3" />
+      <edge source="Harry Potter" target="George III" id="39" weight="1" />
+      <edge source="Harry Potter" target="Draco Malfoy" id="40" weight="3" />
+      <edge source="Harry Potter" target="Fred Weasley" id="41" weight="7" />
+      <edge source="Harry Potter" target="Charles Weasley" id="42" weight="1" />
+      <edge source="Harry Potter" target="Norberta" id="43" weight="4" />
+      <edge source="Harry Potter" target="Goyle" id="44" weight="2" />
+      <edge source="Harry Potter" target="Firenze" id="45" weight="2" />
+      <edge source="Harry Potter" target="Fang" id="46" weight="1" />
+      <edge source="Harry Potter" target="Percy Weasley" id="47" weight="4" />
+      <edge source="Ronald Weasley" target="George Weasley" id="48" weight="1" />
+      <edge source="Ronald Weasley" target="Mrs Norris" id="49" weight="3" />
+      <edge source="Ronald Weasley" target="Lee Jordan" id="50" weight="2" />
+      <edge source="Ronald Weasley" target="Neville Longbottom" id="51" weight="5" />
+      <edge source="Ronald Weasley" target="Dean Thomas" id="52" weight="2" />
+      <edge source="Ronald Weasley" target="Gryffindor Lad" id="53" weight="1" />
+      <edge source="Ronald Weasley" target="Seamus Finnigan" id="54" weight="1" />
+      <edge source="Ronald Weasley" target="Nicholas de Mimsy-Porpington" id="55" weight="2" />
+      <edge source="Ronald Weasley" target="Hermione Granger" id="56" weight="57" />
+      <edge source="Ronald Weasley" target="Parvati Patil" id="57" weight="1" />
+      <edge source="Ronald Weasley" target="Rubeus Hagrid" id="58" weight="8" />
+      <edge source="Ronald Weasley" target="Vernon Dursley" id="59" weight="1" />
+      <edge source="Ronald Weasley" target="Oliver Wood" id="60" weight="2" />
+      <edge source="Ronald Weasley" target="Blythe Parkin" id="61" weight="1" />
+      <edge source="Ronald Weasley" target="Lucius Malfoy" id="62" weight="7" />
+      <edge source="Ronald Weasley" target="Quirinus Quirrell" id="63" weight="3" />
+      <edge source="Ronald Weasley" target="Severus Snape" id="64" weight="13" />
+      <edge source="Ronald Weasley" target="Violet" id="65" weight="1" />
+      <edge source="Ronald Weasley" target="Filius Flitwick" id="66" weight="1" />
+      <edge source="Ronald Weasley" target="Minerva McGonagall" id="67" weight="3" />
+      <edge source="Ronald Weasley" target="Albus Dumbledore" id="68" weight="2" />
+      <edge source="Ronald Weasley" target="George III" id="69" weight="1" />
+      <edge source="Ronald Weasley" target="Draco Malfoy" id="70" weight="2" />
+      <edge source="Ronald Weasley" target="Norberta" id="71" weight="1" />
+      <edge source="Ronald Weasley" target="Fang" id="72" weight="1" />
+      <edge source="Ronald Weasley" target="Percy Weasley" id="73" weight="1" />
+      <edge source="George Weasley" target="Gryffindor Lad" id="74" weight="1" />
+      <edge source="George Weasley" target="Severus Snape" id="75" weight="1" />
+      <edge source="George Weasley" target="Fred Weasley" id="76" weight="4" />
+      <edge source="Gryffindor Lad" target="Ravenclaw Lad" id="77" weight="1" />
+      <edge source="Gryffindor Lad" target="Hannah Abbott" id="78" weight="1" />
+      <edge source="Gryffindor Lad" target="Blythe Parkin" id="79" weight="2" />
+      <edge source="Gryffindor Lad" target="Lucius Malfoy" id="80" weight="1" />
+      <edge source="Gryffindor Lad" target="Severus Snape" id="81" weight="4" />
+      <edge source="Gryffindor Lad" target="Albus Dumbledore" id="82" weight="1" />
+      <edge source="Gryffindor Lad" target="Fred Weasley" id="83" weight="1" />
+      <edge source="Severus Snape" target="Fluffy" id="84" weight="1" />
+      <edge source="Severus Snape" target="Hermione Granger" id="85" weight="10" />
+      <edge source="Severus Snape" target="Rubeus Hagrid" id="86" weight="2" />
+      <edge source="Severus Snape" target="Lucius Malfoy" id="87" weight="2" />
+      <edge source="Severus Snape" target="Crabbe" id="88" weight="1" />
+      <edge source="Severus Snape" target="Quirinus Quirrell" id="89" weight="6" />
+      <edge source="Severus Snape" target="Violet" id="90" weight="3" />
+      <edge source="Severus Snape" target="Minerva McGonagall" id="91" weight="3" />
+      <edge source="Severus Snape" target="Albus Dumbledore" id="92" weight="3" />
+      <edge source="Severus Snape" target="Draco Malfoy" id="93" weight="1" />
+      <edge source="Severus Snape" target="Goyle" id="94" weight="1" />
+      <edge source="Fred Weasley" target="Rubeus Hagrid" id="95" weight="2" />
+      <edge source="Fred Weasley" target="George III" id="96" weight="5" />
+      <edge source="Mrs Norris" target="Fang" id="97" weight="1" />
+      <edge source="Fang" target="Rubeus Hagrid" id="98" weight="4" />
+      <edge source="Fang" target="Lucius Malfoy" id="99" weight="1" />
+      <edge source="Lee Jordan" target="Marcus Flint" id="100" weight="1" />
+      <edge source="Adrian" target="Albus Dumbledore" id="101" weight="1" />
+      <edge source="Marcus Flint" target="Blythe Parkin" id="102" weight="1" />
+      <edge source="Marcus Flint" target="Angelina Johnson" id="103" weight="1" />
+      <edge source="Neville Longbottom" target="Dean Thomas" id="104" weight="1" />
+      <edge source="Neville Longbottom" target="Seamus Finnigan" id="105" weight="2" />
+      <edge source="Neville Longbottom" target="Hermione Granger" id="106" weight="6" />
+      <edge source="Neville Longbottom" target="Rubeus Hagrid" id="107" weight="2" />
+      <edge source="Neville Longbottom" target="Lucius Malfoy" id="108" weight="4" />
+      <edge source="Neville Longbottom" target="Minerva McGonagall" id="109" weight="1" />
+      <edge source="Neville Longbottom" target="Albus Dumbledore" id="110" weight="2" />
+      <edge source="Neville Longbottom" target="Trevor" id="111" weight="2" />
+      <edge source="Neville Longbottom" target="Draco Malfoy" id="112" weight="1" />
+      <edge source="Dean Thomas" target="Seamus Finnigan" id="113" weight="1" />
+      <edge source="Dudley" target="Petunia Dursley" id="114" weight="1" />
+      <edge source="Dudley" target="Vernon Dursley" id="115" weight="6" />
+      <edge source="Seamus Finnigan" target="Nicholas de Mimsy-Porpington" id="116" weight="1" />
+      <edge source="Seamus Finnigan" target="Nick Alas" id="117" weight="1" />
+      <edge source="Seamus Finnigan" target="Rubeus Hagrid" id="118" weight="1" />
+      <edge source="Seamus Finnigan" target="Quirinus Quirrell" id="119" weight="2" />
+      <edge source="Seamus Finnigan" target="Filius Flitwick" id="120" weight="1" />
+      <edge source="Nicholas de Mimsy-Porpington" target="Hermione Granger" id="121" weight="3" />
+      <edge source="Nicholas de Mimsy-Porpington" target="Rubeus Hagrid" id="122" weight="1" />
+      <edge source="Nicholas de Mimsy-Porpington" target="Albus Dumbledore" id="123" weight="1" />
+      <edge source="Malkin" target="Rubeus Hagrid" id="124" weight="1" />
+      <edge source="Gerbold Ollivander" target="Rubeus Hagrid" id="125" weight="3" />
+      <edge source="Hermione Granger" target="Fluffy" id="126" weight="1" />
+      <edge source="Hermione Granger" target="Ronan" id="127" weight="2" />
+      <edge source="Hermione Granger" target="Parvati Patil" id="128" weight="1" />
+      <edge source="Hermione Granger" target="Rubeus Hagrid" id="129" weight="5" />
+      <edge source="Hermione Granger" target="Lucius Malfoy" id="130" weight="1" />
+      <edge source="Hermione Granger" target="Quirinus Quirrell" id="131" weight="2" />
+      <edge source="Hermione Granger" target="Violet" id="132" weight="1" />
+      <edge source="Hermione Granger" target="Filius Flitwick" id="133" weight="1" />
+      <edge source="Hermione Granger" target="Minerva McGonagall" id="134" weight="5" />
+      <edge source="Hermione Granger" target="Albus Dumbledore" id="135" weight="2" />
+      <edge source="Hermione Granger" target="Rolanda Hooch" id="136" weight="1" />
+      <edge source="Hermione Granger" target="Irma Pince" id="137" weight="1" />
+      <edge source="Hermione Granger" target="Norberta" id="138" weight="3" />
+      <edge source="Hermione Granger" target="Percy Weasley" id="139" weight="2" />
+      <edge source="Ronan" target="Rubeus Hagrid" id="140" weight="2" />
+      <edge source="Parvati Patil" target="Pansy Parkinson" id="141" weight="1" />
+      <edge source="Parvati Patil" target="Blythe Parkin" id="142" weight="1" />
+      <edge source="Rubeus Hagrid" target="Vernon Dursley" id="143" weight="4" />
+      <edge source="Rubeus Hagrid" target="Lucius Malfoy" id="144" weight="1" />
+      <edge source="Rubeus Hagrid" target="Healer (Diagon Alley)" id="145" weight="1" />
+      <edge source="Rubeus Hagrid" target="Doris Crockford" id="146" weight="1" />
+      <edge source="Rubeus Hagrid" target="Griphook" id="147" weight="1" />
+      <edge source="Rubeus Hagrid" target="Violet" id="148" weight="1" />
+      <edge source="Rubeus Hagrid" target="Filius Flitwick" id="149" weight="1" />
+      <edge source="Rubeus Hagrid" target="Minerva McGonagall" id="150" weight="3" />
+      <edge source="Rubeus Hagrid" target="Albus Dumbledore" id="151" weight="6" />
+      <edge source="Rubeus Hagrid" target="Charles Weasley" id="152" weight="1" />
+      <edge source="Rubeus Hagrid" target="Norberta" id="153" weight="2" />
+      <edge source="Rubeus Hagrid" target="Firenze" id="154" weight="1" />
+      <edge source="Vernon Dursley" target="Gordon" id="155" weight="1" />
+      <edge source="Oliver Wood" target="Blythe Parkin" id="156" weight="1" />
+      <edge source="Oliver Wood" target="George III" id="157" weight="1" />
+      <edge source="Oliver Wood" target="Alicia Spinnet" id="158" weight="1" />
+      <edge source="Oliver Wood" target="Angelina Johnson" id="159" weight="1" />
+      <edge source="Oliver Wood" target="Charles Weasley" id="160" weight="1" />
+      <edge source="Blythe Parkin" target="Angelina Johnson" id="161" weight="1" />
+      <edge source="Lucius Malfoy" target="Scabior" id="162" weight="2" />
+      <edge source="Lucius Malfoy" target="Crabbe" id="163" weight="2" />
+      <edge source="Lucius Malfoy" target="Albus Dumbledore" id="164" weight="1" />
+      <edge source="Lucius Malfoy" target="Goyle" id="165" weight="1" />
+      <edge source="Healer (Diagon Alley)" target="Quirinus Quirrell" id="166" weight="1" />
+      <edge source="Crabbe" target="Draco Malfoy" id="167" weight="1" />
+      <edge source="Crabbe" target="Goyle" id="168" weight="2" />
+      <edge source="Peter James" target="Lily L. Potter" id="169" weight="2" />
+      <edge source="Peter James" target="Minerva McGonagall" id="170" weight="1" />
+      <edge source="Peter James" target="Albus Dumbledore" id="171" weight="2" />
+      <edge source="Quirinus Quirrell" target="Violet" id="172" weight="3" />
+      <edge source="Quirinus Quirrell" target="Minerva McGonagall" id="173" weight="2" />
+      <edge source="Quirinus Quirrell" target="Albus Dumbledore" id="174" weight="2" />
+      <edge source="Violet" target="Albus Dumbledore" id="175" weight="1" />
+      <edge source="Minerva McGonagall" target="Lily L. Potter" id="176" weight="1" />
+      <edge source="Minerva McGonagall" target="Filius Flitwick" id="177" weight="3" />
+      <edge source="Minerva McGonagall" target="Albus Dumbledore" id="178" weight="6" />
+      <edge source="Minerva McGonagall" target="Charles Weasley" id="179" weight="1" />
+      <edge source="Minerva McGonagall" target="Norberta" id="180" weight="1" />
+      <edge source="Albus Dumbledore" target="Lily L. Potter" id="181" weight="2" />
+      <edge source="Albus Dumbledore" target="Ravenclaw Lad" id="182" weight="2" />
+      <edge source="Albus Dumbledore" target="Bane" id="183" weight="1" />
+      <edge source="Albus Dumbledore" target="Firenze" id="184" weight="1" />
+      <edge source="George III" target="Charles Weasley" id="185" weight="1" />
+      <edge source="Draco Malfoy" target="Goyle" id="186" weight="1" />
+      <edge source="Charles Weasley" target="Norberta" id="187" weight="1" />
+      <edge source="Charles Weasley" target="William Weasley" id="188" weight="4" />
+      <edge source="Goyle" target="Scabior" id="189" weight="2" />
+      <edge source="Firenze" target="Bane" id="190" weight="1" />
+      <edge source="Percy Weasley" target="Gordon" id="191" weight="1" />
+      <edge source="Percy Weasley" target="Filius Flitwick" id="192" weight="1" />
+      <edge source="Terry Boot" target="Ravenclaw Lad" id="193" weight="2" />
+    </edges>
+  </graph>
+</gexf>

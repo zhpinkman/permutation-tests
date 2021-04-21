@@ -1,0 +1,663 @@
+*vertices 140
+1 "Sir Luckless" 0.0 0.0 ellipse
+2 "Harry Potter" 0.0 0.0 ellipse
+3 "Ronald Weasley" 0.0 0.0 ellipse
+4 "Stanley Shunpike" 0.0 0.0 ellipse
+5 "Stubby Boardman" 0.0 0.0 ellipse
+6 Luisa 0.0 0.0 ellipse
+7 "Lavender Brown" 0.0 0.0 ellipse
+8 "Justin Finch-Fletchley" 0.0 0.0 ellipse
+9 "Colin Creevey" 0.0 0.0 ellipse
+10 "Seamus Finnigan" 0.0 0.0 ellipse
+11 "Parvati Patil" 0.0 0.0 ellipse
+12 Violet 0.0 0.0 ellipse
+13 "Neville Longbottom" 0.0 0.0 ellipse
+14 "George Weasley" 0.0 0.0 ellipse
+15 "Lee Jordan" 0.0 0.0 ellipse
+16 "Maud Montague" 0.0 0.0 ellipse
+17 "Fred Weasley" 0.0 0.0 ellipse
+18 Dan 0.0 0.0 ellipse
+19 "Albus Dumbledore" 0.0 0.0 ellipse
+20 "Percy Weasley" 0.0 0.0 ellipse
+21 "Terry Boot" 0.0 0.0 ellipse
+22 "Hannah Abbott" 0.0 0.0 ellipse
+23 "Ernest Macmillan" 0.0 0.0 ellipse
+24 "Angelina Johnson" 0.0 0.0 ellipse
+25 "Susan Bones" 0.0 0.0 ellipse
+26 "Luna Lovegood" 0.0 0.0 ellipse
+27 "Alicia Spinnet" 0.0 0.0 ellipse
+28 "Anthony Goldstein" 0.0 0.0 ellipse
+29 Alys 0.0 0.0 ellipse
+30 Everard 0.0 0.0 ellipse
+31 Hedwig 0.0 0.0 ellipse
+32 "Wilhelmina Grubbly-Plank" 0.0 0.0 ellipse
+33 "Hermione Granger" 0.0 0.0 ellipse
+34 "Minerva McGonagall" 0.0 0.0 ellipse
+35 "Mrs Norris" 0.0 0.0 ellipse
+36 Cadogan 0.0 0.0 ellipse
+37 Frank 0.0 0.0 ellipse
+38 "Petunia Dursley" 0.0 0.0 ellipse
+39 "Sybill Trelawney" 0.0 0.0 ellipse
+40 "Rodolphus Lestrange" 0.0 0.0 ellipse
+41 "Rita Skeeter" 0.0 0.0 ellipse
+42 "Dean Thomas" 0.0 0.0 ellipse
+43 "Theodore Nott" 0.0 0.0 ellipse
+44 Cedric 0.0 0.0 ellipse
+45 "Cornelius Fudge" 0.0 0.0 ellipse
+46 Perkins 0.0 0.0 ellipse
+47 "Phineas Nigellus Black" 0.0 0.0 ellipse
+48 "Lily L. Potter" 0.0 0.0 ellipse
+49 "Ravenclaw Lad" 0.0 0.0 ellipse
+50 Alice 0.0 0.0 ellipse
+51 "Griselda Marchbanks" 0.0 0.0 ellipse
+52 "Dolores Umbridge" 0.0 0.0 ellipse
+53 "Cho Chang" 0.0 0.0 ellipse
+54 "Dedalus Diggle" 0.0 0.0 ellipse
+55 Dobby 0.0 0.0 ellipse
+56 "Antonin Dolohov" 0.0 0.0 ellipse
+57 "Nick Alas" 0.0 0.0 ellipse
+58 "Marius Black" 0.0 0.0 ellipse
+59 "Bellatrix Lestrange" 0.0 0.0 ellipse
+60 "Marietta Edgecombe" 0.0 0.0 ellipse
+61 "Gryffindor Lad" 0.0 0.0 ellipse
+62 "Ginevra Weasley" 0.0 0.0 ellipse
+63 "Remus Lupin" 0.0 0.0 ellipse
+64 "Rubeus Hagrid" 0.0 0.0 ellipse
+65 "Pansy Parkinson" 0.0 0.0 ellipse
+66 "Vernon Dursley" 0.0 0.0 ellipse
+67 "Pierre Bonaccord" 0.0 0.0 ellipse
+68 "Blythe Parkin" 0.0 0.0 ellipse
+69 "Lucius Malfoy" 0.0 0.0 ellipse
+70 "Myron Wagtail" 0.0 0.0 ellipse
+71 "Mundungus Fletcher" 0.0 0.0 ellipse
+72 Crabbe 0.0 0.0 ellipse
+73 "Gilderoy Lockhart" 0.0 0.0 ellipse
+74 "Peter James" 0.0 0.0 ellipse
+75 "Bartemius Crouch Junior" 0.0 0.0 ellipse
+76 Davies 0.0 0.0 ellipse
+77 "Edgar Bones" 0.0 0.0 ellipse
+78 "Euan Abercrombie" 0.0 0.0 ellipse
+79 Kreacher 0.0 0.0 ellipse
+80 "Quirinus Quirrell" 0.0 0.0 ellipse
+81 "Molly Weasley" 0.0 0.0 ellipse
+82 "Severus Snape" 0.0 0.0 ellipse
+83 "Willy Widdershins" 0.0 0.0 ellipse
+84 "Filius Flitwick" 0.0 0.0 ellipse
+85 Arthur 0.0 0.0 ellipse
+86 "Michael Corner" 0.0 0.0 ellipse
+87 "Rolanda Hooch" 0.0 0.0 ellipse
+88 "George III" 0.0 0.0 ellipse
+89 "Draco Malfoy" 0.0 0.0 ellipse
+90 Buckbeak 0.0 0.0 ellipse
+91 "Kingsley Shacklebolt" 0.0 0.0 ellipse
+92 "Katie Bell" 0.0 0.0 ellipse
+93 "Hestia Jones" 0.0 0.0 ellipse
+94 "Zacharias Smith" 0.0 0.0 ellipse
+95 Crookshanks 0.0 0.0 ellipse
+96 "William Weasley" 0.0 0.0 ellipse
+97 Goyle 0.0 0.0 ellipse
+98 Firenze 0.0 0.0 ellipse
+99 "Daphne Greengrass" 0.0 0.0 ellipse
+100 "Armando Dippet" 0.0 0.0 ellipse
+101 "Demelza Robins" 0.0 0.0 ellipse
+102 Tofty 0.0 0.0 ellipse
+103 Fang 0.0 0.0 ellipse
+104 "Sturgis Podmore" 0.0 0.0 ellipse
+105 Grawp 0.0 0.0 ellipse
+106 "Padma Patil" 0.0 0.0 ellipse
+107 "Avery I" 0.0 0.0 ellipse
+108 "Jack Sloper" 0.0 0.0 ellipse
+109 Pike 0.0 0.0 ellipse
+110 "Gideon Prewett" 0.0 0.0 ellipse
+111 "Benjy Fenwick" 0.0 0.0 ellipse
+112 "Fabian Prewett" 0.0 0.0 ellipse
+113 "Augustus Rookwood" 0.0 0.0 ellipse
+114 "John Dawlish" 0.0 0.0 ellipse
+115 "Frank Longbottom" 0.0 0.0 ellipse
+116 "Miranda Goshawk" 0.0 0.0 ellipse
+117 "Wilbert Slinkhard" 0.0 0.0 ellipse
+118 "Adrian Pucey" 0.0 0.0 ellipse
+119 Dudley 0.0 0.0 ellipse
+120 "Viktor Krum" 0.0 0.0 ellipse
+121 "Nicholas de Mimsy-Porpington" 0.0 0.0 ellipse
+122 "Tiberius Ogden" 0.0 0.0 ellipse
+123 Rosie 0.0 0.0 ellipse
+124 "Helga Hufflepuff" 0.0 0.0 ellipse
+125 Edgecombe 0.0 0.0 ellipse
+126 Winky 0.0 0.0 ellipse
+127 "Miles Bletchley" 0.0 0.0 ellipse
+128 Ronan 0.0 0.0 ellipse
+129 "Oliver Wood" 0.0 0.0 ellipse
+130 "Augustus Pye" 0.0 0.0 ellipse
+131 "Millicent Bulstrode" 0.0 0.0 ellipse
+132 Pigwidgeon 0.0 0.0 ellipse
+133 "Olympe Maxime" 0.0 0.0 ellipse
+134 Trevor 0.0 0.0 ellipse
+135 "Nymphadora Tonks" 0.0 0.0 ellipse
+136 "Dudley Dursley" 0.0 0.0 ellipse
+137 "Caspar Crouch" 0.0 0.0 ellipse
+138 "Irma Pince" 0.0 0.0 ellipse
+139 "Charles Weasley" 0.0 0.0 ellipse
+140 "Gregory Goyle" 0.0 0.0 ellipse
+*edges
+1 2 2
+1 3 2
+1 4 1
+2 5 1
+2 7 2
+2 14 1
+2 18 1
+2 29 2
+2 31 8
+2 35 1
+2 36 2
+2 21 1
+2 37 1
+2 38 2
+2 39 8
+2 40 1
+2 41 1
+2 15 5
+2 42 4
+2 43 1
+2 44 8
+2 30 1
+2 9 1
+2 45 2
+2 46 2
+2 47 12
+2 48 1
+2 49 1
+2 10 7
+2 32 2
+2 50 1
+2 51 2
+2 22 1
+2 52 64
+2 53 27
+2 54 1
+2 55 22
+2 56 1
+2 3 325
+2 57 3
+2 33 185
+2 58 2
+2 59 2
+2 23 3
+2 60 9
+2 61 1
+2 62 21
+2 6 18
+2 63 15
+2 11 4
+2 64 55
+2 65 1
+2 66 45
+2 67 2
+2 68 1
+2 69 32
+2 70 3
+2 71 6
+2 72 4
+2 73 1
+2 74 14
+2 16 2
+2 75 1
+2 76 2
+2 77 2
+2 78 1
+2 79 9
+2 80 2
+2 81 1
+2 82 74
+2 83 1
+2 12 23
+2 84 2
+2 34 20
+2 19 87
+2 85 4
+2 86 1
+2 87 3
+2 26 2
+2 88 24
+2 89 1
+2 27 4
+2 90 1
+2 91 10
+2 92 3
+2 17 25
+2 4 2
+2 13 44
+2 93 1
+2 94 5
+2 95 2
+2 96 1
+2 97 4
+2 28 1
+2 98 3
+2 99 1
+2 100 2
+2 101 1
+2 102 1
+2 103 3
+2 104 2
+2 20 11
+2 105 6
+3 7 2
+3 18 1
+3 29 2
+3 31 1
+3 107 1
+3 106 1
+3 108 1
+3 39 3
+3 15 1
+3 42 2
+3 115 1
+3 45 1
+3 46 1
+3 120 1
+3 10 3
+3 51 1
+3 123 1
+3 22 1
+3 52 9
+3 53 3
+3 57 1
+3 33 173
+3 58 1
+3 127 1
+3 23 1
+3 61 2
+3 62 31
+3 6 5
+3 128 1
+3 63 5
+3 64 5
+3 65 3
+3 66 3
+3 129 1
+3 68 3
+3 69 7
+3 71 4
+3 73 1
+3 77 1
+3 79 2
+3 81 1
+3 82 6
+3 83 1
+3 12 3
+3 34 3
+3 19 21
+3 85 3
+3 86 5
+3 26 1
+3 88 17
+3 89 1
+3 27 4
+3 91 4
+3 17 25
+3 130 1
+3 4 3
+3 13 13
+3 94 6
+3 95 1
+3 96 2
+3 28 1
+3 98 1
+3 104 2
+3 20 4
+5 6 1
+6 41 1
+6 52 1
+6 55 1
+6 33 4
+6 132 1
+6 62 7
+6 64 1
+6 134 1
+6 13 4
+7 8 2
+7 9 1
+7 10 1
+7 11 1
+7 12 1
+7 13 1
+8 21 1
+8 9 4
+8 22 2
+8 23 2
+8 24 1
+8 25 1
+8 26 1
+8 27 1
+8 28 1
+9 22 2
+9 23 2
+9 24 2
+9 11 1
+9 26 1
+9 27 2
+9 92 2
+9 13 1
+10 42 5
+10 44 1
+10 33 2
+10 82 1
+10 34 1
+10 19 1
+10 13 3
+11 106 1
+11 39 2
+11 42 2
+11 52 1
+11 53 1
+11 64 1
+11 13 1
+12 41 1
+12 33 6
+12 62 1
+12 66 1
+12 69 2
+12 70 1
+12 82 2
+12 19 12
+12 85 1
+12 13 2
+12 137 1
+13 21 1
+13 106 2
+13 42 2
+13 51 1
+13 53 1
+13 57 2
+13 33 14
+13 59 1
+13 132 1
+13 62 5
+13 63 1
+13 65 1
+13 69 2
+13 82 1
+13 34 1
+13 19 3
+13 134 1
+13 26 3
+13 97 1
+14 15 1
+14 16 1
+14 17 4
+15 33 2
+15 88 3
+15 27 2
+15 92 3
+15 17 2
+16 24 2
+16 82 2
+16 87 2
+16 17 1
+17 18 1
+17 116 1
+17 117 1
+17 123 1
+17 52 6
+17 53 1
+17 33 14
+17 62 8
+17 69 1
+17 71 3
+17 72 1
+17 34 1
+17 19 1
+17 87 1
+17 88 80
+17 27 2
+17 91 1
+17 92 2
+17 94 1
+17 95 1
+17 96 2
+17 20 1
+18 19 2
+18 20 2
+19 29 2
+19 39 2
+19 114 1
+19 44 1
+19 30 1
+19 45 1
+19 47 7
+19 51 2
+19 52 9
+19 54 1
+19 33 17
+19 59 1
+19 23 1
+19 63 1
+19 64 3
+19 69 2
+19 82 5
+19 83 1
+19 34 13
+19 124 1
+19 135 1
+19 88 1
+19 91 4
+19 94 2
+19 96 1
+19 98 1
+19 20 2
+20 33 2
+20 139 1
+20 137 1
+21 106 1
+21 86 1
+21 27 1
+21 28 2
+22 106 1
+22 33 1
+22 23 5
+22 25 1
+22 124 1
+22 28 1
+23 33 2
+23 24 1
+23 25 1
+23 64 1
+23 69 2
+23 124 4
+23 86 1
+23 26 1
+23 88 1
+23 89 1
+23 27 1
+23 92 1
+23 28 1
+24 34 1
+24 26 1
+24 89 1
+24 27 1
+24 92 1
+25 28 1
+26 41 1
+26 33 1
+26 62 2
+26 124 1
+26 88 1
+26 27 1
+26 92 1
+27 108 1
+27 69 1
+27 72 1
+27 88 2
+27 92 4
+28 106 1
+28 33 1
+28 86 1
+28 94 1
+28 140 1
+28 99 1
+29 30 2
+31 32 2
+31 33 2
+31 34 1
+32 33 1
+32 64 2
+32 34 2
+33 35 1
+33 107 1
+33 37 1
+33 39 1
+33 41 6
+33 42 1
+33 43 1
+33 115 2
+33 118 1
+33 117 1
+33 50 1
+33 51 1
+33 52 29
+33 53 8
+33 55 1
+33 57 1
+33 131 5
+33 132 1
+33 62 22
+33 128 1
+33 64 19
+33 65 2
+33 129 1
+33 69 5
+33 72 1
+33 126 1
+33 79 2
+33 82 4
+33 34 2
+33 124 1
+33 86 1
+33 88 6
+33 92 2
+33 94 1
+33 95 1
+33 103 2
+33 105 4
+33 133 2
+34 35 1
+34 38 1
+34 39 2
+34 45 3
+34 52 12
+34 125 1
+34 60 1
+34 64 1
+34 68 1
+34 82 1
+34 84 2
+34 91 2
+37 50 1
+39 52 5
+39 64 1
+40 75 1
+42 106 1
+42 52 2
+42 62 1
+42 64 1
+42 98 1
+44 82 1
+44 94 1
+45 51 1
+47 60 1
+47 62 1
+47 82 1
+48 74 2
+48 82 1
+49 62 1
+50 115 1
+51 52 1
+51 122 1
+51 102 1
+52 53 1
+52 125 1
+52 60 2
+52 62 2
+52 64 3
+52 65 2
+52 69 4
+52 81 1
+52 82 8
+52 84 2
+52 88 3
+52 91 1
+52 103 1
+53 106 1
+53 60 1
+53 62 2
+53 76 3
+53 82 2
+53 86 2
+55 126 2
+57 121 1
+58 62 1
+58 88 1
+62 115 1
+62 69 1
+62 85 1
+62 86 6
+62 88 4
+62 95 1
+62 96 1
+63 64 1
+63 70 2
+63 74 3
+63 82 3
+63 135 1
+63 91 2
+64 65 2
+64 69 1
+64 72 1
+64 92 1
+64 98 1
+64 103 3
+64 105 1
+65 69 2
+65 82 1
+65 97 1
+66 119 1
+66 136 1
+68 124 2
+69 131 1
+69 72 1
+69 82 1
+69 85 1
+69 88 2
+69 92 1
+69 97 3
+70 74 10
+70 82 3
+72 87 1
+74 82 12
+82 89 1
+82 94 1
+83 85 1
+84 106 1
+88 117 1
+88 123 1
+88 92 1
+88 94 2
+88 95 1
+88 96 1
+89 97 1
+91 135 1
+91 93 1
+91 104 1
+92 138 1
+93 104 1
+94 109 1
+99 140 1
+108 109 1
+110 111 1
+110 112 1
+110 113 1
+112 113 1
+116 117 1
+132 134 1
