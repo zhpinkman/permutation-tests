@@ -1,0 +1,28 @@
+"effect","p_value"
+"nodecov  industry_of_gdp",0.312
+"nodecov  merchandise_of_gdp",0.309
+"nodecov  agriculture_forestry_fishing_of_gdp",0.452
+"nodecov  gdp_growth",0.114
+"nodecov  gdp_us_dollar",0
+"nodecov  foreign_direct_investment_inflows",0
+"nodecov  inflation_rate",0.222
+"nodecov  net_barter_of_trade",0.154
+"absdiff  industry_of_gdp",0.191
+"absdiff  merchandise_of_gdp",0.344
+"absdiff  agriculture_forestry_fishing_of_gdp",0.02
+"absdiff  gdp_growth",0.05
+"absdiff  gdp_us_dollar",0
+"absdiff  foreign_direct_investment_inflows",0
+"absdiff  inflation_rate",0.415
+"absdiff  net_barter_of_trade",0.154
+"homophily  continent",0
+"homophily  landlocked",0
+"homophily  langoff_1",0.001
+"numerical homophily  industry_of_gdp",0
+"numerical homophily  merchandise_of_gdp",0.197
+"numerical homophily  agriculture_forestry_fishing_of_gdp",0
+"numerical homophily  gdp_growth",0.189
+"numerical homophily  gdp_us_dollar",0.453
+"numerical homophily  foreign_direct_investment_inflows",0.197
+"numerical homophily  inflation_rate",0.113
+"numerical homophily  net_barter_of_trade",0
