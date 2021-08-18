@@ -1,28 +1,28 @@
 "effect","p_value"
-"nodecov  industry_of_gdp",0.413
-"nodecov  merchandise_of_gdp",0.439
-"nodecov  agriculture_forestry_fishing_of_gdp",0.251
-"nodecov  gdp_growth",0.124
-"nodecov  gdp_us_dollar",0.016
-"nodecov  foreign_direct_investment_inflows",0.06
-"nodecov  inflation_rate",0.131
-"nodecov  net_barter_of_trade",0.393
-"absdiff  industry_of_gdp",0.304
-"absdiff  merchandise_of_gdp",0.29
-"absdiff  agriculture_forestry_fishing_of_gdp",0.116
-"absdiff  gdp_growth",0.039
-"absdiff  gdp_us_dollar",0
-"absdiff  foreign_direct_investment_inflows",0
-"absdiff  inflation_rate",0.476
-"absdiff  net_barter_of_trade",0.177
-"homophily  continent",0
-"homophily  landlocked",0
-"homophily  langoff_1",0
-"numerical homophily  industry_of_gdp",0.396
-"numerical homophily  merchandise_of_gdp",0.336
-"numerical homophily  agriculture_forestry_fishing_of_gdp",0
-"numerical homophily  gdp_growth",0.257
-"numerical homophily  gdp_us_dollar",0.239
-"numerical homophily  foreign_direct_investment_inflows",0.327
-"numerical homophily  inflation_rate",0.056
-"numerical homophily  net_barter_of_trade",0.199
+"nodecovindustry_of_gdp",0.382
+"nodecovmerchandise_of_gdp",0.432
+"nodecovagriculture_forestry_fishing_of_gdp",0.283
+"nodecovgdp_growth",0.112
+"nodecovgdp_us_dollar",0.016
+"nodecovforeign_direct_investment_inflows",0.079
+"nodecovinflation_rate",0.124
+"nodecovnet_barter_of_trade",0.367
+"absdiff-industry_of_gdp",0.313
+"absdiff-merchandise_of_gdp",0.271
+"absdiff-agriculture_forestry_fishing_of_gdp",0.125
+"absdiff-gdp_growth",0.043
+"absdiff-gdp_us_dollar",0
+"absdiff-foreign_direct_investment_inflows",0.002
+"absdiff-inflation_rate",0.441
+"absdiff-net_barter_of_trade",0.216
+"homophily-continent",0
+"homophily-landlocked",0
+"homophily-langoff_1",0
+"numerical-homophily-industry_of_gdp",0.392
+"numerical-homophily-merchandise_of_gdp",0.348
+"numerical-homophily-agriculture_forestry_fishing_of_gdp",0
+"numerical-homophily-gdp_growth",0.215
+"numerical-homophily-gdp_us_dollar",0.248
+"numerical-homophily-foreign_direct_investment_inflows",0.321
+"numerical-homophily-inflation_rate",0.081
+"numerical-homophily-net_barter_of_trade",0.164
